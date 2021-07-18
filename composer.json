@@ -1,0 +1,12 @@
+{
+    "name": "proweb/php-nginx-heroku",
+    "description": "Heroku starter template for PHP with NGINX",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Mochalov",
+            "email": "mail@newwebmaster.ru"
+        }
+    ],
+    "require": {}
+}
