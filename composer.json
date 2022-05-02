@@ -8,5 +8,8 @@
             "email": "mail@newwebmaster.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.0.0"
+
+    }
 }
